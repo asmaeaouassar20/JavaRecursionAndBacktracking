@@ -1,0 +1,1 @@
+a math function to find the summation from 1 to N
